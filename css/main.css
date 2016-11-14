@@ -1,0 +1,50 @@
+/* Hint! the @font-face rule needs to be the first thing in your CSS file!*/
+
+
+/* Start the CSS*/
+body {
+	margin: 0;
+	padding: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fcc7f6+0,a3f3f7+31,b7f7dc+68,ffe39e+100 */
+	background: #fcc7f6; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #fcc7f6 0%, #a3f3f7 31%, #b7f7dc 68%, #ffe39e 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #fcc7f6 0%,#a3f3f7 31%,#b7f7dc 68%,#ffe39e 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #fcc7f6 0%,#a3f3f7 31%,#b7f7dc 68%,#ffe39e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcc7f6', endColorstr='#ffe39e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+	padding: 5%;
+	background-color: #fff;
+	box-shadow: 0px 0px 15px 5px rgba(0,0,0,.15);
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
